@@ -66,5 +66,3 @@ Open one of the notebooks and run the cells in order. Keep `Dataset .csv` in the
 
 ## Author
 **Ramkrishna Majumder**
-
-Restaurant Chain Analysis project by Ramkrishna Majumder.

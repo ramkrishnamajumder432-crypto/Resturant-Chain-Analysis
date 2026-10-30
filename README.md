@@ -59,10 +59,5 @@ Open one of the notebooks and run the cells in order. Keep `Dataset .csv` in the
 5. Explore the dataset and create visualizations.
 6. Review the results from the Level 1, Level 2, and Level 3 notebooks.
 
-## Notes
-- Run the notebooks from the project directory so the CSV file can be found.
-- The notebooks may modify or remove missing-value rows during cleaning. Review those cells before applying the same process to other datasets.
-- Add screenshots of your own notebook outputs or charts here if you want to showcase results on GitHub.
-
 ## Author
 **Ramkrishna Majumder**
